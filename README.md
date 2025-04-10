@@ -330,6 +330,4 @@ export default IdealWeight;
 
 ---
 # Vídeo Explicativo
-<video width="320" height="240" controls>
-  <source src="videoexplicativo.mp4" type="video/mp4">
-</video>
+**[Link para o vídeo no Google Drive](https://drive.google.com/drive/folders/1CNPprVKmfXBqW_S_JPUNZLAlH_8HEit1?usp=sharing)**
