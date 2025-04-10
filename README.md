@@ -330,4 +330,6 @@ export default IdealWeight;
 
 ---
 # Vídeo Explicativo
-![](videoexplicativo.mp4)
+<video width="320" height="240" controls>
+  <source src="videoexplicativo.mp4" type="video/mp4">
+</video>
